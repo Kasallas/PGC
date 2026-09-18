@@ -1,1 +1,1 @@
-# PGC
+Plataforma web SIG (Sistema de Información Geográfica) para el municipio de **Ubaté, Cundinamarca (Colombia)**, cuyo propósito es centralizar, actualizar y facilitar el acceso a la información cartográfica y catastral del municipio, sirviendo como insumo para la toma de decisiones territoriales sostenibles.
